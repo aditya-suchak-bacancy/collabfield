@@ -15,5 +15,7 @@
 @import "bootstrap-sprockets";
 
 @import "base/variable";
-@import "partial/layout/*";
 
+// Partials - main css files
+@import "partial/*";
+@import "partial/layout/*";
